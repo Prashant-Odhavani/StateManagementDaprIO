@@ -1,0 +1,6 @@
+@StateManagementDaprIO_HostAddress = http://localhost:5058
+
+GET {{StateManagementDaprIO_HostAddress}}/BlogPosts/
+Accept: application/json
+
+###
